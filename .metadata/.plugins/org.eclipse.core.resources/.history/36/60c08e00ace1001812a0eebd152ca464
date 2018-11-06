@@ -1,0 +1,5 @@
+package org.mochito.mochito_core;
+
+public class Dice {
+
+}

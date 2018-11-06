@@ -1,0 +1,22 @@
+package dojo;
+
+import java.util.List;
+
+public class Order {
+
+	public void declareOwner(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void declareTarget(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public List<String> getCocktails() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

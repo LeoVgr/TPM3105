@@ -1,0 +1,12 @@
+package org.mochito.mochito_core;
+import org.junit.Test;  
+
+public class TestDoublures { 
+	
+	@Test
+	public void test_UnPremierStub() {
+
+		User user = mock(User.class);
+		when(user.getLogin()).thenReturn("alice");
+	}
+}
