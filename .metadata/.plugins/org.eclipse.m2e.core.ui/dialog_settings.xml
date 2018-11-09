@@ -22,6 +22,14 @@
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
 		<item value="All Catalogs" key="catalog"/>
@@ -36,6 +44,9 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\leovg\eclipse-workspace\firstdoublure"/>
+			<item value="C:\Users\leovg\eclipse-workspace\hellodoublure"/>
+			<item value="C:\Users\leovg\eclipse-workspace\cucumber_demo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -48,12 +59,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="org.mochito.mochito_core"/>
 			<item value="fr.unilim.iut.cucumber_demo"/>
 		</list>
 		<list key="groupId">
+			<item value="org.mochito"/>
 			<item value="fr.unilim.iut"/>
 		</list>
 		<list key="artifactId">
+			<item value="mochito-core"/>
 			<item value="cucumber_demo"/>
 		</list>
 		<list key="projectNameTemplate">

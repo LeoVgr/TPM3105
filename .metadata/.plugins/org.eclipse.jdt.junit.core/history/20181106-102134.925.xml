@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="java" project="hellodoublure" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="fr.unilim.iut.TestDoublures" time="0.475">
-    <testcase name="test_UnPremierStub" classname="fr.unilim.iut.TestDoublures" time="0.474"/>
-  </testsuite>
-  <testsuite name="org.mochito.mochito_core.AppTest" time="0.0">
-    <testcase name="testApp" classname="org.mochito.mochito_core.AppTest" time="0.0"/>
-  </testsuite>
-</testrun>
